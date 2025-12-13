@@ -183,3 +183,7 @@ Please, make sure all steps are using **the same** python version and that you h
 
 ## W&B Link: 
 https://wandb.ai/churta11-western-governors-university/nyc_airbnb?nw=nwuserchurta11
+
+## GitHub repository link: 
+
+https://github.com/Churta11/Project-Build-an-ML-Pipeline-Starter/tree/1.0.1
